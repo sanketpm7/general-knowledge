@@ -1,0 +1,1 @@
+incentives are essentially monetary benefits provided by an entity(govt. or corporate) to encourage specific behaviours or activities that align with its economic or industrial development goals.

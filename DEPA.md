@@ -1,0 +1,1 @@
+DEPA creates a **digital framework that allows users to share their data** on their own terms through a third-party entity, who are known as Consent Mangers.

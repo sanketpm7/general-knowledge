@@ -1,0 +1,1 @@
+Legal recognition refers to the acknowledgement or acceptance of a particular status, right, or entity by the legal system.

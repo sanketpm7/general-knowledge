@@ -1,0 +1,1 @@
+a rule that a child's citizenship is determined by its parents' citizenship

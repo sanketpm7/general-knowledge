@@ -1,0 +1,4 @@
+- His Parents/Grandparents/Great-Grandparents were Indians
+- Doesn't have Indian Passport
+- No voting rights
+- Cannot hold public offices

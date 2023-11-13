@@ -1,0 +1,1 @@
+- Aadhar is not a proof of citizenship

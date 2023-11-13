@@ -1,0 +1,2 @@
+- Directly involved in something and will be affected by how it turns out.
+- Accountability

@@ -1,0 +1,1 @@
+[[Charaka]] : Father of Ayurvedic Medicine

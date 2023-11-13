@@ -1,0 +1,1 @@
+Reductionist thinking is an approach that is used in many disciplines, including psychology, that is centered on the belief that we can best explain something by breaking it down into its individual parts.
