@@ -4,96 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "04da4d9d71eb930b",
+        "id": "6b1a3629bd0cfc2e",
         "type": "tabs",
         "children": [
           {
-            "id": "bab91d9d7f0c2068",
+            "id": "4547ff59d7121573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Act, 2000.md",
+                "file": "Constitution of India.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6513650344bab68c",
+            "id": "3b28b974a5e6bb25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Rules, 2021.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "887f687df1287a21"
-          },
-          {
-            "id": "b3b6899b2b60f75b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "IT Rules, 2021.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6666666666666666,
-                  "close": true
-                }
-              }
-            },
-            "group": "887f687df1287a21"
-          },
-          {
-            "id": "fa9d3ebb733c9409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OTT.md",
+                "file": "Samvidhan Divas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "df3c829ea003c3fd",
+            "id": "17025bb3f3120706",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Rules, 2021.md",
+                "file": "B R Ambedkar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f6eaa3c8324b1eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constitution of India.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe7f6f23c4b94758",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "health.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1093e4b53d9a32d9",
@@ -159,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Rules, 2021.md",
+                "file": "Constitution of India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,12 +147,47 @@
             }
           },
           {
+            "id": "f62dea02af7a5f1a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Constitution of India.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6666666666666666,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
             "id": "ae9ce166b011a8d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT Rules, 2021.md",
+                "file": "Constitution of India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,15 +210,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT Rules, 2021.md"
+                "file": "Constitution of India.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 345.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -221,43 +233,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df3c829ea003c3fd",
+  "active": "1f6eaa3c8324b1eb",
   "lastOpenFiles": [
-    "OTT.md",
-    "Regulation of OTT Platfoms.md",
-    "IT Rules, 2021.md",
-    "IT Act, 2000.md",
-    "Information Technology (Amendment) Act 2008.md",
-    "MeitY.md",
+    "B R Ambedkar.md",
+    "Samvidhan Divas.md",
+    "Constitution of India.md",
+    "attachments/Constitution of India-20231126174347173.webp",
     "_hub.md",
-    "Media Trials.md",
-    "Kangaroo Court.md",
-    "eTransactions.md",
-    "Legal Recognition.md",
-    "Moscow Trails.md",
-    "Article 19.md",
-    "0_newspaper/All English Editorials 10--11.pdf",
-    "NFHS.md",
-    "Total Fertility Rate.md",
-    "replacement level of fertility.md",
-    "multi-round survey.md",
+    "Reductionist Thinking.md",
     "health.md",
-    "Production Linked Incentives.md",
-    "Financial Incentives.md",
-    "incremental sales.md",
-    "Pravasi Bharatiya Samman.md",
-    "CapEx.md",
-    "1_backlog/newspaper.md",
-    "education.md",
-    "0_newspaper/THE Hindu_Delhi.12_11_2023.pdf.part",
-    "Functional Foods.md",
-    "0_newspaper/All English Editorials 12--11.pdf.part",
-    "0_newspaper/THE Hindu_Delhi.12_11_2023.pdf",
-    "0_newspaper/All English Editorials 12--11.pdf",
-    "4_upsc-toppers",
-    "0_newspaper/nov-07-23.pdf.pdf",
-    "0_newspaper/nov-06-23.pdf",
-    "0_newspaper/e-nov-8-23.pdf",
-    "0_newspaper/e-nov-7-23.pdf"
+    "Maslow's hierarchy of needs.md",
+    "attachments/Maslow's hierarchy of needs-20231126164043573.webp",
+    "attachments/Maslow's hierarchy of needs-20231126163951896.webp",
+    "Arvid Carlsson.md",
+    "dopamine.md",
+    "Multidimensional Poverty Index.md",
+    "SDG.md",
+    "UNO.md",
+    "Climate Smart Agriculture.md",
+    "Governer.md",
+    "dengue.md",
+    "Cloud Seeding.md",
+    "non-state actors.md",
+    "Sub Categorization of Castes.md",
+    "Climate Change.md",
+    "0_newspaper/TH-Delhi 23-11-23.pdf",
+    "Special Category Status.md",
+    "0_newspaper/TH Delhi 22--11.pdf",
+    "Governance.md",
+    "Chickungunya.md",
+    "Sub Categorization of SC.md",
+    "0_newspaper/All English Editorials 17--11.pdf",
+    "0_newspaper/TH Delhi 17--11 (1).pdf",
+    "Claudia Goldin.md",
+    "Nobel Prize.md",
+    "Women Empowerment.md",
+    "0_newspaper/TH Delhi 16--11.pdf",
+    "0_newspaper/All English Editorials 16--11.pdf",
+    "attachments/International Diabetes Federation-20231115004858952.webp",
+    "attachments/charles-banting.png",
+    "attachments",
+    "0_newspaper/TH HD Delhi 14~11~2023.pdf.part",
+    "0_newspaper/TH HD Delhi 14~11~2023.pdf",
+    "0_newspaper/All English Editorials 14--11.pdf"
   ]
 }

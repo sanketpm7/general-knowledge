@@ -1,0 +1,1 @@
+These schemes have always been controversial because of their potential to promote the electoral prospects of the ruling party, and they have been done so with brazenness by earlier governments as well.

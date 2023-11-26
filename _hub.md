@@ -1,14 +1,22 @@
-##### Decision Models
+## Awards
+[[Nobel Prize]]
+
+
+---
+## [[Constitution of India]]
+
+---
+## Decision Models
 [[Reductionist Thinking]]
 
 ---
-##### Defence
+## Defence
 [[Parakram Parv]]
 [[surgical strike]]
 [[non-state actors]]
 
 ---
-#### Economics
+## Economics
 [[Multiplier Effect]]
 [[CapEx]]
 
@@ -20,55 +28,101 @@
 
 [[Multidimensional Poverty Index]]
 
+---
+## [[Environment]]
+[[Climate Change]]
+[[Climate Smart Agriculture]]
 
-##### Finance
+
+---
+## Finance
 [[Financial Incentives]]
 
 ---
+## Govt
 
----
-### Govt
-##### govt. bodies
+[[Governer]]
+
+### govt. bodies
 [[NSC]]
 [[MeitY]]
-##### govt. Laws
-[[IT Act, 2000]]
-[[IT Rules, 2021]]
-##### govt schemes
+
+### govt schemes
 [[Production Linked Incentives]]
 
-##### [[education]]
+### [[education]]
+[[NEP]]
+
+### Goverance
+[[Governance]]
+[[Special Category Status]]
+[[Centrally Sponsored Schemes]]
+
+### Welfare
+[[MGNREGA]]
 
 ---
-##### Geography
+## Geography
 [[Continents]]
 [[Countries]]
 
 [[Cloud Seeding]]
 
 ---
-##### [[health]]
+## [[health]]
 
 ---
-##### Law
+## Law
 [[Kangaroo Court]]
+[[Sub Categorization of Castes]]
+
+[[IT Act, 2000]]
+[[IT Rules, 2021]]
+
+[[Electoral Trusts Scheme]]
+[[Electoral Bond Scheme]]
 
 ---
-##### Media
+## Media
 [[Media Trials]]
 
+
 ---
-##### Research
+## People
+**National**
+[[Claudia Goldin]]
+
+**International**
+
+
+---
+## Research
 [[Scientific Terrorism]]
 
 ---
-##### Technology
+## Sociology
+[[Women Empowerment]]
+[[Male Backlash]]
+
+
+---
+## Technology
 [[AI]]
 [[Digital Public Infrastructure]]
 
 ---
-### Writing
+## World
+[[UNO]]
+
+---
+## Wildlife
+[[Tigers]]
+
+
+---
+## Writing
 [[Terms]]
 [[Metaphor]]
 
 ---
+
