@@ -1,6 +1,10 @@
+## Backlog
+- [ ] 26--11 - all editiorials pg-12
+- [ ] 27--11 - Indian Express 'National Security'
+- [ ] Beckn Protocol (backbone of DPI in india)
+---
 ## Awards
 [[Nobel Prize]]
-
 
 ---
 ## [[Constitution of India]]
@@ -26,6 +30,8 @@
 [[Demonetisation]]
 [[Hawala]]
 
+
+[[Purple sector]]
 [[Multidimensional Poverty Index]]
 
 ---
@@ -39,8 +45,9 @@
 [[Financial Incentives]]
 
 ---
-## Govt
+## India
 
+[[Infrastructure]]
 [[Governer]]
 
 ### govt. bodies
@@ -65,7 +72,7 @@
 ## Geography
 [[Continents]]
 [[Countries]]
-
+[[The Himalayas]]
 [[Cloud Seeding]]
 
 ---
